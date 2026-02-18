@@ -1,5 +1,8 @@
 ## Hi there 👋
 AI Engineer
+
+Skills : Python, Machine  Learning, Deep  Learning, NLP, Computer  Vision, Generative AI, LLMs, RAG, LangChain, LangGraph,
+MCP, TensorFlow, PyTorch, Hugging  Face, FastAPI, Docker  ( Basics) , SQL, Git, GitHub
 <!--
 **sujalrana-ai/sujalrana-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
