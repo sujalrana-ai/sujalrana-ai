@@ -1,4 +1,4 @@
-# Hi there, I'm Sujal Rana! 👋 
+# Hello, I'm Sujal Rana! 👋 
 
 ### 🤖 AI Engineer | GenAI & RAG Specialist
 6th Semester Student of Artificial Intelligence & Data Science | Building Agentic AI Solutions.
