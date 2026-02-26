@@ -31,20 +31,20 @@ I am an **AI & Data Science Specialist** (6th Sem) focused on building autonomou
 ## 🎓 Verified Certifications
 
 ### 🌟 Agentic AI & GenAI (IBM & Hugging Face)
-- [cite_start]**Agentic AI with LangChain and LangGraph** — *IBM* — [Verify](https://coursera.org/verify/37M3YE2NXMSW) 
-- [cite_start]**Foundations of Agents** — *Hugging Face* — [Completed Jan 2026] [cite: 22, 25, 27]
-- [cite_start]**The LLM Course: Fine-tuning Language Models** — *Hugging Face* — [Completed Jan 2026] [cite: 53, 56, 61]
-- [cite_start]**The LLM Course: Fundamentals of LLMs** — *Hugging Face* — [Completed Dec 2025] [cite: 63, 66, 71]
+- **Agentic AI with LangChain and LangGraph** — *IBM* — [Verify](https://coursera.org/verify/37M3YE2NXMSW) 
+- **Foundations of Agents** — *Hugging Face* — [Completed Jan 2026] [cite: 22, 25, 27]
+- **The LLM Course: Fine-tuning Language Models** — *Hugging Face* — [Completed Jan 2026] [cite: 53, 56, 61]
+- **The LLM Course: Fundamentals of LLMs** — *Hugging Face* — [Completed Dec 2025] [cite: 63, 66, 71]
 
 ### 🧠 Machine Learning Specialization (Stanford & DeepLearning.AI)
-- [cite_start]**Machine Learning Specialization (3-Course Series)** [cite: 31, 33, 42]
-  - [cite_start]*Supervised Machine Learning: Regression and Classification* [cite: 34, 89] [cite_start]— [Verify](https://coursera.org/verify/OC614HYORF4Y) [cite: 99]
-  - [cite_start]*Advanced Learning Algorithms* [cite: 8, 35] [cite_start]— [Verify](https://coursera.org/verify/1MHOCX2ZTJLE) [cite: 18]
-  - [cite_start]*Unsupervised Learning, Recommenders, Reinforcement Learning* [cite: 36, 37, 110] [cite_start]— [Verify](https://coursera.org/verify/MR2K37N9R9SY) [cite: 119]
-  - [cite_start]**Overall Specialization Verify:** [Click Here](https://coursera.org/verify/specialization/CAH18LNV6K5G) [cite: 52]
+- **Machine Learning Specialization (3-Course Series)** [cite: 31, 33, 42]
+  - *Supervised Machine Learning: Regression and Classification* [cite: 34, 89] [cite_start]— [Verify](https://coursera.org/verify/OC614HYORF4Y) [cite: 99]
+  - *Advanced Learning Algorithms* [cite: 8, 35] [cite_start]— [Verify](https://coursera.org/verify/1MHOCX2ZTJLE) [cite: 18]
+  - *Unsupervised Learning, Recommenders, Reinforcement Learning* [cite: 36, 37, 110] [cite_start]— [Verify](https://coursera.org/verify/MR2K37N9R9SY) [cite: 119]
+  - **Overall Specialization Verify:** [Click Here](https://coursera.org/verify/specialization/CAH18LNV6K5G) [cite: 52]
 
 ### 💡 Additional Skills
-- [cite_start]**Introduction to Prompt Engineering** — *Simplilearn* — [Verify Code: 9622743] [cite: 76, 78]
+- **Introduction to Prompt Engineering** — *Simplilearn* — [Verify Code: 9622743] [cite: 76, 78]
 
 ---
 
